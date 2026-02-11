@@ -1,5 +1,4 @@
 # spring-kafka-microservice-demo
-A RESTful microservice example demonstrating real-time message streaming with Spring Boot and Apache Kafka (KRaft mode).
 
 Spring Boot & Apache Kafka Microservice Demo 🚀
 Bu proje, Spring Boot ve Apache Kafka (KRaft Mode) entegrasyonunu sergileyen temel bir Producer-Consumer uygulamasıdır.
